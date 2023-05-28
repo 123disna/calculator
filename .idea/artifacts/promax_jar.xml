@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="promax:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/promax_jar</output-path>
+    <root id="archive" name="promax.jar">
+      <element id="module-output" name="promax" />
+    </root>
+  </artifact>
+</component>
